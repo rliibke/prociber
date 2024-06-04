@@ -26,12 +26,16 @@
                 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
                         <li class="nav-item"> 
-                            <a href="index.html#" class="nav-link">A Empresa <i class=""></i></a>
+                            <a href="/" class="nav-link">Início <i class=""></i></a>
+                      
+                        </li>
+                        <li class="nav-item"> 
+                            <a href="/empresa" class="nav-link">A Empresa <i class=""></i></a>
                       
                         </li>
                         
                         <li class="nav-item">
-                            <a href="index.html#" class="nav-link">Soluções <i class="fas fa-chevron-down"></i></a>
+                            <a href="#" class="nav-link">Soluções <i class="fas fa-chevron-down"></i></a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item"> 
                                     <a href="services.html" class="nav-link">Services One</a>
@@ -45,7 +49,10 @@
                             </ul>
                         </li>
                         
-                        
+                          <li class="nav-item"> 
+                            <a href="/parceiro" class="nav-link">Seja Parceiro<i class=""></i></a>
+                      
+                        </li>
                         <li class="nav-item">
                             <a href="/contato" class="nav-link">Contato</a>
                         </li>

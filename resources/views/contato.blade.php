@@ -1,90 +1,109 @@
-
 @extends('template')
-  
+
 @section('contents')
 
-     
-           <div class="what-we-do we-padding">
-               <div class="container">
-                   <div class="col-lg-12 col-md-6">
-                       <div class="row">
-                    <div class="col-12">
-                        <h2 class="contact-title">Seu contato é importante</h2>
-                    </div>
-                    <div class="col-lg-8">
-                        <form class="form-contact" action="/contact" method="POST" id="">
-                             @csrf
-                             
-                            <div class="row">
-                                <div class="col-12">
-                                    <div class="form-group">
-                                        <textarea class="form-control w-100 @error('mensagem') is-invalid @enderror" name="mensagem" id="mensagem" cols="30" rows="9" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Informe aqui a sua mensagem'" placeholder="Informe aqui a sua mensagem"></textarea>
-                                    </div>
+<!-- Start Page Title Section -->
+<div class="page-title-area">
+    <div class="d-table">
+        <div class="d-table-cell">
+            <div class="container">
+                <div class="page-title-content">
+                    <h2>Contato</h2>
+                    <ul>
+                        <li><a href="index.html">Home</a>
+                        </li>
+                        <li>Contact</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Page Title Section -->
+
+<!-- Start Contact Section -->
+<div class="contact-section contact-page-form section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-12">
+                <div class="contact-information-box-1">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12">
+                            <div class="single-contact-info-box">
+                                <div class="contact-info">
+                                    <h6>Endereço:</h6>
+                                    <p>Rua Antonina 1174</p>
+                                    <p>Cascavel, PR</p>
                                 </div>
-                                <div class="col-sm-6">
-                                    <div class="form-group">
-                                        <input class="form-control valid @error('name') is-invalid @enderror" name="name" id="name" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Informe seu nome'" placeholder="Informe seu Nome" required>
-                                    </div>
+                                <div class="contact-info-bg-icon">
+                                    <i class="pe-7s-map-marker"></i>
                                 </div>
-                                <div class="col-sm-6">
-                                    <div class="form-group">
-                                        <input class="form-control valid @error('email') is-invalid @enderror" name="email" id="email" type="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Informe seu e-mail'" placeholder="Seu e-mail" required>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-group">
-                                        <input class="form-control @error('assunto') is-invalid @enderror" name="assunto" id="assunto" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Assunto da Mensagem'" placeholder="Assunto da Mensagem" required>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="form-group mt-3">
-                                <button type="submit" class="button button-contactForm boxed-btn">ENVIAR</button>
-                            </div>
-                        </form>
-                    </div>
-                    <div class="col-lg-3 offset-lg-1">
-                        <div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-tablet"></i></span>
-                            <div class="media-body">
-                                <h3>Financeiro </h3>
-                                 <h3>(45) 3303-5840</h3>
-                                  <h3>financeiro@zabke.com.br</h3>
-                                <p>Seg. à Sex. 9:00 as 18:00</p>
                             </div>
                         </div>
-                        <div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-tablet"></i></span>
-                            <div class="media-body">
-                                <h3>Comercial </h3>
-                                 <h3>(45) 3303-5840</h3>
-                                  <h3>comercial@zabke.com.br</h3>
-                                <p>Seg. à Sex. 9:00 as 18:00</p>
+                        <div class="col-lg-12 col-md-12 col-sm-12">
+                            <div class="single-contact-info-box">
+                                <div class="contact-info">
+                                    <h6>Telefone:</h6>
+                                    <p>(45) 3197 2328</p>
+                                </div>
+                                <div class="contact-info-bg-icon">
+                                    <i class="pe-7s-call"></i>
+                                </div>
                             </div>
                         </div>
-                         <div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-tablet"></i></span>
-                            <div class="media-body">
-                                <h3>Suporte </h3>
-                                 <h3>(45) 3303-5841</h3>
-                                  <h3>suporte@zabke.com.br</h3>
-                                <p>Seg. à Sex. 9:00 as 18:00</p>
+                        <div class="col-lg-12 col-md-12 col-sm-12">
+                            <div class="single-contact-info-box">
+                                <div class="contact-info">
+                                    <h6>Email:</h6>
+                                    <p>comercial@prociber.com.br</p>
+                                </div>
+                                <div class="contact-info-bg-icon">
+                                    <i class="pe-7s-mail"></i>
+                                </div>
                             </div>
                         </div>
-                       
-                  
                     </div>
                 </div>
-                   </div>
-                   
-                   
-               </div>
-               
-           </div>
-               
-    
-    
-            
-     
-  
-   
+            </div>
+            <div class="col-lg-8 col-md-12">
+                <div class="contact-form contact-form-1">
+                    <p class="form-message"></p>
+                    <form id="contact-form" class="form" action="/contato" method="POST">
+                        @csrf
+                        <div class="row">
+                            <div class="col-lg-6 col-md-12">
+                                <div class="form-group">
+                                    <input type="text" name="name" id="name" class="form-control" required placeholder="Seu nome">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12">
+                                <div class="form-group">
+                                    <input type="email" name="email" id="email" class="form-control" required placeholder="Seu Email">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12">
+                                <div class="form-group">
+                                    <input type="text" name="phone" id="phone" required class="form-control" placeholder="Seu Telefone">
+                                </div>
+                            </div>
+
+                            <div class="col-lg-12 col-md-12">
+                                <div class="form-group">
+                                    <textarea name="message" class="form-control" id="message" cols="30" rows="6" required placeholder="Your Message"></textarea>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12">
+                                <button type="submit" class="default-btn">ENVIAR <span></span></button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Contact Section -->
+
+
+
 @endsection	
