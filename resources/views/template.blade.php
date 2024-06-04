@@ -2,13 +2,14 @@
 
 @include('preloader')
 
+@include('navbar')
 
- <body>
+<body>
 
-     <main>
+    <main>
         @yield('contents')
-     </main>
-     
- </body>
- 
-  @include('footer')
+    </main>
+
+</body>
+
+@include('footer')
