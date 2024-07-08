@@ -8,9 +8,10 @@
         <div class="container">
             <div class="cybercafe-responsive-menu">
                 <div class="logo">
-                    <a href="index.html">
-                        <img src="assets/img/logo.png" class="white-logo" alt="logo">
-                        <img src="assets/img/logo-black.png" class="black-logo" alt="logo">
+                    <a href="/">
+                       
+                      <img src="assets/img/logo.png" class="white-logo" alt="logo">
+                    <img src="assets/img/logo-black.png" class="black-logo" alt="logo">
                     </a>
                 </div>
             </div>
@@ -30,27 +31,25 @@
                       
                         </li>
                         <li class="nav-item"> 
-                            <a href="/empresa" class="nav-link">A Empresa <i class=""></i></a>
+                            <a href="/empresa" class="nav-link">Sobre a Próciber <i class=""></i></a>
                       
                         </li>
                         
                         <li class="nav-item">
-                            <a href="#" class="nav-link">Soluções <i class="fas fa-chevron-down"></i></a>
+                            <a href="#" class="nav-link">Nossas Soluções <i class="fas fa-chevron-down"></i></a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item"> 
-                                    <a href="services.html" class="nav-link">Services One</a>
+                                    <a href="/backup" class="nav-link">Backup em nuvem</a>
                                 </li>
                                 <li class="nav-item"> 
-                                    <a href="services-2.html" class="nav-link">Services Two</a>
+                                    <a href="/seguranca" class="nav-link">Segurança Digital</a>
                                 </li>
-                                <li class="nav-item"> 
-                                    <a href="single-services.html" class="nav-link">Services Details</a>
-                                </li>
+                              
                             </ul>
                         </li>
                         
                           <li class="nav-item"> 
-                            <a href="/parceiro" class="nav-link">Seja Parceiro<i class=""></i></a>
+                            <a href="/parceiro" class="nav-link">Seja nosso Parceiro<i class=""></i></a>
                       
                         </li>
                         <li class="nav-item">

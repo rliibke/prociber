@@ -66,30 +66,31 @@
                 </div>
             </div>
             <div class="col-lg-8 col-md-12">
+                     <h3>Formulário de contato:</h3>
                 <div class="contact-form contact-form-1">
-                    <p class="form-message"></p>
+               
                     <form id="contact-form" class="form" action="/contato" method="POST">
                         @csrf
                         <div class="row">
                             <div class="col-lg-6 col-md-12">
                                 <div class="form-group">
-                                    <input type="text" name="name" id="name" class="form-control" required placeholder="Seu nome">
+                                    <input type="text" name="name" id="name" class="form-control" required placeholder="Seu Nome">
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-12">
                                 <div class="form-group">
-                                    <input type="email" name="email" id="email" class="form-control" required placeholder="Seu Email">
+                                    <input type="email" name="email" id="email" class="form-control" required placeholder="Seu e-mail">
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-12">
                                 <div class="form-group">
-                                    <input type="text" name="phone" id="phone" required class="form-control" placeholder="Seu Telefone">
+                                    <input type="text" name="phone" id="phone" required class="form-control" placeholder="Seu telefone">
                                 </div>
                             </div>
 
                             <div class="col-lg-12 col-md-12">
                                 <div class="form-group">
-                                    <textarea name="message" class="form-control" id="message" cols="30" rows="6" required placeholder="Your Message"></textarea>
+                                    <textarea name="message" class="form-control" id="message" cols="30" rows="6" required placeholder="Informe aqui sua mensagem"></textarea>
                                 </div>
                             </div>
                             <div class="col-lg-12 col-md-12">

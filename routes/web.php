@@ -13,9 +13,23 @@ Route::middleware('visitor')->get('/contato', function () {
     return view('contato');
 });
 
+Route::middleware('visitor')->get('/politica', function () {
+    return view('politica');
+});
+
 Route::middleware('visitor')->get('/empresa', function () {
     return view('empresa');
 });
+
+Route::middleware('visitor')->get('/backup', function () {
+    return view('backup');
+});
+
+
+Route::middleware('visitor')->get('/seguranca', function () {
+    return view('seguranca');
+});
+
 
 Route::middleware('visitor')->get('/clientes', function () {
     return view('clientes');

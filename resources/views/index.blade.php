@@ -50,15 +50,16 @@
             <div class="col-lg-6">
                 <div class="overview-content">
                     <h6 class="sub-title">Entenda quais são os benefícios</h6>
-                    <h2>Porque realizar backup? </h2>
-                    <p>Realizar backups eficientes é fundamental para garantir a segurança da informação e a continuidade dos negócios. Aqui estão os principais benefícios desta política:</p>
+                    <h2>Porque utilizar nossas soluções ? </h2>
+                    <p align='justify'>Como o aumento significativo de ataques hackers e roubo de dados das corporações, a área de segurança na área de Informacão toma um papel cada vez mais importante no nosso dia-a-dia.</p>
+                    <p align='justify'>Temos visto cada vez mais notícias de empresas que tem seus dados vazados por algum tipo de ataque hacker, causando grande prejuizo a imagem das empresas.<p>
                     <ul class="features-list">
-                        <li> <span class="active">Proteção Contra Perda de Dados</span></li>
-                        <li> <span>Segurança Contra Ataques Cibernéticos</span></li>
+                        <li> <span >Proteção Contra Perda de Dados</span></li>
+                        <li> <span>Segurança Contra Ataques</span></li>
                         <li> <span> Conformidade Regulamentar</span></li>
-                        <li> <span>Continuidade dos Negócios</span></li>
+                        <li> <span>Proteger imagem da empresa</span></li>
                         <li> <span>Economia de Custos</span></li>
-                        <li> <span> SIEM Threat Detection</span></li>
+                        <li> <span>Proteção contra fraudes</span></li>
                     </ul>
                 </div>
             </div>
@@ -73,27 +74,27 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="section-title">
-                    <h6>We’re Here To Help</h6>
-                    <h2>Industries We Serve</h2>
+                    <h6>Estamos aqui para ajudar</h6>
+                    <h2>Onde aplicamos nossas soluções</h2>
                 </div>
             </div>
         </div>
         <div class="tab solutions-list-tab">
             <ul class="tabs">
                 <li>
-                    <a href="index.html#"><span>Financial</span></a>
+                    <a href="index.html#"><span>Setor Jurídico</span></a>
                 </li>
                 <li>
-                    <a href="index.html#"><span>Healthcare</span></a>
+                    <a href="index.html#"><span>Setor Financeiro</span></a>
                 </li>
                 <li>
-                    <a href="index.html#"><span>Real Estate</span></a>
+                    <a href="index.html#"><span>Setor Contábil</span></a>
                 </li>
                 <li>
-                    <a href="index.html#"><span>Manufacturing</span></a>
+                    <a href="index.html#"><span>Setor TI</span></a>
                 </li>
                 <li>
-                    <a href="index.html#"><span>Education</span></a>
+                    <a href="index.html#"><span>Comércio</span></a>
                 </li>
             </ul>
             <div class="tab_content">
@@ -101,25 +102,32 @@
                     <div class="row align-items-center">
                         <div class="col-lg-7">
                             <div class="tab-solution-content">
-                                <h3>We’re Trusted by Leading Financial</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.There are many variations of passages Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
+                                <h3>Prevenção de Ameaças Cibernéticas</h3>
+                                <p align='justify'>
+                                    A área jurídica é um alvo atraente para cibercriminosos devido à natureza valiosa dos dados que armazenam. Implementar regras de segurança ajuda a prevenir ataques cibernéticos, como phishing, ransomware e outras formas de invasão.
+                                </p>
                                 <ul class="tab-list">
                                     <li>
-                                        <i class="fa-solid fa-check-circle"></i> Protect your business with our leading business solutions
+                                        <i class="fa-solid fa-check-circle"></i> Proteja seus ativos de rede com nossa solução de ciber segurança
                                     </li>
                                     <li>
-                                        <i class="fa-solid fa-check-circle"></i> Future Developments of Artificial Intelligence
+                                        <i class="fa-solid fa-check-circle"></i> Esteja em conformidade com regulações;
                                     </li>
                                     <li>
-                                        <i class="fa-solid fa-check-circle"></i> We serve AI global enterprises and in-house IT teams
+                                        <i class="fa-solid fa-check-circle"></i> Garanta que seus backups estão em dia.
                                     </li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.There are many variations of passages available.</p>
+                                <p align='justify'>
+                                    Leis de proteção de dados, como a LGPD no Brasil e o GDPR na Europa, exigem que empresas adotem medidas rigorosas de segurança para proteger dados pessoais. Não seguir essas regulamentações pode resultar em multas pesadas e danos à reputação.
+                                </p>
+                                 <p align='justify'>
+                                A segurança eficaz protege não apenas os dados, mas também a reputação da empresa. Manter altos padrões de segurança demonstra compromisso com a proteção dos interesses dos clientes e reforça a confiança no serviço prestado.
+                                </p>
                             </div>
                         </div>
                         <div class="col-lg-5">
                             <div class="tab-image">
-                                <img src="assets/img/industry/tab-solution-1.jpg" alt="image">
+                                <img src="assets/img/judge.jpg" alt="image">
                             </div>
                         </div>
                     </div>
@@ -128,18 +136,19 @@
                     <div class="row align-items-center">
                         <div class="col-lg-7">
                             <div class="tab-solution-content">
-                                <h3>Medical Device Security</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.There are many variations of passages Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
+                                <h3>Prevenção </h3>
+                                <p align='justify'>Instituições e setores da área financeira lidam com informações extremamente sensíveis, incluindo dados bancários, informações pessoais e transações financeiras. A segurança da tecnologia ajuda a proteger esses dados contra hackers, fraudes e outras ameaças cibernéticas.</p>
+                                <p align='justify'>
+                                   A segurança eficaz da tecnologia é essencial para manter a reputação de uma instituição financeira. Incidentes de segurança podem resultar em perda de confiança dos clientes e danos irreparáveis à imagem da empresa.
+                                </p>
                                 <ul class="tab-list">
                                     <li>
-                                        <i class="fa-solid fa-check-circle"></i> Protect your business with our leading business solutions
+                                        <i class="fa-solid fa-check-circle"></i> Guarde seus backups e crie políticas de acesso;
                                     </li>
                                     <li>
-                                        <i class="fa-solid fa-check-circle"></i> Future Developments of Artificial Intelligence
+                                        <i class="fa-solid fa-check-circle"></i> Proteja seus ativos de rede com nossa solução de ciber segurança;
                                     </li>
-                                    <li>
-                                        <i class="fa-solid fa-check-circle"></i> We serve AI global enterprises and in-house IT teams
-                                    </li>
+                                
                                 </ul>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.There are many variations of passages available.</p>
                             </div>
@@ -155,20 +164,21 @@
                     <div class="row align-items-center">
                         <div class="col-lg-7">
                             <div class="tab-solution-content">
-                                <h3>Protecting Real Estate Industry</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.There are many variations of passages Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
+                                <h3>Dados seguros</h3>
+                                <p align='justify'>A quantidade de arquivos manipulados nos setores Contabil e Fiscal aumentou significativamente nos ultimos anos, e com isso a demanda por uma ferramenta de backup eficiente é mais do que essencial neste meio.</p>
+                                <p align='justify'>Contratos, Notas fiscais, Arquivos XML, entre outros, podem ser facilmente armazenados na nossa ferramenta. Desta forma sua empresa armazena com segurança estes arquivos durante o período exigido por lei.</p>
                                 <ul class="tab-list">
                                     <li>
-                                        <i class="fa-solid fa-check-circle"></i> Protect your business with our leading business solutions
+                                        <i class="fa-solid fa-check-circle"></i> Garanta obrigações Legais;
                                     </li>
                                     <li>
-                                        <i class="fa-solid fa-check-circle"></i> Future Developments of Artificial Intelligence
+                                        <i class="fa-solid fa-check-circle"></i> Proteja sua rede contra ameaças;
                                     </li>
                                     <li>
-                                        <i class="fa-solid fa-check-circle"></i> We serve AI global enterprises and in-house IT teams
+                                        <i class="fa-solid fa-check-circle"></i> Economize dinheiro com eventuais ataques;
                                     </li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.There are many variations of passages available.</p>
+                                <p>Assumir uma  política proativa de segurança da informação tem ótimos reflexos na imagem e cultura da corporação como um todo.</p>
                             </div>
                         </div>
                         <div class="col-lg-5">
@@ -182,20 +192,24 @@
                     <div class="row align-items-center">
                         <div class="col-lg-7">
                             <div class="tab-solution-content">
-                                <h3>Manufacturing Cyber Landscape</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.There are many variations of passages Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
+                                <h3>Setor de Tecnologia</h3>
+                                <p align='justify'>O setor de T.I com certeza é um dos principais setores que necessitam de ferramentas cada vez mais avançadas para garantir a entrega constante de melhorias no negócio.</p>
+                                <p align='justify'>Com a evolução das tecnologias, hoje em dia muitos serviços e ferramentas já podem ser terceirizados, ajudando o setor de T.I na entrega de tecnologia com a segurança necessária</p>
                                 <ul class="tab-list">
-                                    <li>
-                                        <i class="fa-solid fa-check-circle"></i> Protect your business with our leading business solutions
+                                     <li>
+                                        <i class="fa-solid fa-check-circle"></i> Apoio ao time de segurança
                                     </li>
                                     <li>
-                                        <i class="fa-solid fa-check-circle"></i> Future Developments of Artificial Intelligence
+                                        <i class="fa-solid fa-check-circle"></i> Restauração rápida no caso de catástrofes
                                     </li>
                                     <li>
-                                        <i class="fa-solid fa-check-circle"></i> We serve AI global enterprises and in-house IT teams
+                                        <i class="fa-solid fa-check-circle"></i> Backup de máquina virtual
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check-circle"></i> Backup de bancos de Dados 
                                     </li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.There are many variations of passages available.</p>
+                                <p>Com nossas ferramentas seu time de T.I pode dar um salto importante e necessário para alavancar seu negócio.</p>
                             </div>
                         </div>
                         <div class="col-lg-5">
@@ -209,20 +223,20 @@
                     <div class="row align-items-center">
                         <div class="col-lg-7">
                             <div class="tab-solution-content">
-                                <h3>Higher Education Facilities</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.There are many variations of passages Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
+                                <h3>O setor que não para</h3>
+                                <p align='justify'>Na Próciber, oferecemos mais do que segurança da informação; proporcionamos tranquilidade para seu comércio de qualquer tamanho prosperar. Nossa consultoria especializada protege seus dados sensíveis, assegura conformidade com regulamentações e fortalece a confiança dos clientes. Conte com nossa expertise para garantir a continuidade dos negócios e ganhar uma vantagem competitiva no mercado. Proteja seu investimento com a melhor consultoria em segurança do setor.</p>
                                 <ul class="tab-list">
                                     <li>
-                                        <i class="fa-solid fa-check-circle"></i> Protect your business with our leading business solutions
+                                        <i class="fa-solid fa-check-circle"></i> Fazemos backup completo de todos seus arquivos
                                     </li>
                                     <li>
-                                        <i class="fa-solid fa-check-circle"></i> Future Developments of Artificial Intelligence
+                                        <i class="fa-solid fa-check-circle"></i> Monitoramos seu backup para que esteja sempre em dia
                                     </li>
                                     <li>
-                                        <i class="fa-solid fa-check-circle"></i> We serve AI global enterprises and in-house IT teams
+                                        <i class="fa-solid fa-check-circle"></i> Monitoramos suas estações para evitar virus e/ou malwares.
                                     </li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.There are many variations of passages available.</p>
+                                <p>Sabemos que a operação no Comércio não para e por isso nosso serviço é voltado ao monitoramento constante dos nossos parceiros de negócio.</p>
                             </div>
                         </div>
                         <div class="col-lg-5">
@@ -247,8 +261,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="section-title">
-                    <h6>Testimonial</h6>
-                    <h2>Our Client Say</h2>
+                    <h6>Testemunhos</h6>
+                    <h2>O que nossos clientes dizem:</h2>
                 </div>
             </div>
             <div class="col-md-12">
@@ -367,110 +381,6 @@
 </section>
 <!-- End Hire Section -->
 
-<!-- Start Blog Section -->
-<section class="blog-section pt-100 pb-70">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="section-title">
-                    <h6>Our Latest News</h6>
-                    <h2>Blog & Article</h2>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="blog-single-item">
-                    <div class="blog-image">
-                        <a href="single-blog.html">
-                            <img src="assets/img/blog/blog-1.jpg" alt="image">
-                        </a>
-                    </div>
-                    <div class="blog-description">
-                        <ul class="blog-list">
-                            <li>
-                                <a href="index.html#"> <i class="fa fa-user-alt"></i> Author</a>
-                            </li>
-                            <li>
-                                <a href="index.html#"> <i class="fas fa-calendar-week"></i>17 June 2023</a>
-                            </li>
-                        </ul>
-                        <div class="blog-content">
-                            <h3>
-                                <a href="single-blog.html">
-                                    Cybersecurity Should be an Issue for Every Board of Directors
-                                </a>
-                            </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incididunt</p>
-                            <div class="blog-btn">
-                                <a href="single-blog.html" class="default-btn blog-btn-one">Continue Reading <span></span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="blog-single-item">
-                    <div class="blog-image">
-                        <a href="single-blog.html">
-                            <img src="assets/img/blog/blog-2.jpg" alt="image">
-                        </a>
-                    </div>
-                    <div class="blog-description">
-                        <ul class="blog-list">
-                            <li>
-                                <a href="index.html#"> <i class="fa fa-user-alt"></i> Author</a>
-                            </li>
-                            <li>
-                                <a href="index.html#"> <i class="fas fa-calendar-week"></i>17 June 2023</a>
-                            </li>
-                        </ul>
-                        <div class="blog-content">
-                            <h3>
-                                <a href="single-blog.html">
-                                    Technology, Microlearning, and its Impact on Users and Cybersecurity
-                                </a>
-                            </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incididunt</p>
-                            <div class="blog-btn">
-                                <a href="single-blog.html" class="default-btn blog-btn-one">Continue Reading <span></span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="blog-single-item">
-                    <div class="blog-image">
-                        <a href="single-blog.html">
-                            <img src="assets/img/blog/blog-3.jpg" alt="image">
-                        </a>
-                    </div>
-                    <div class="blog-description">
-                        <ul class="blog-list">
-                            <li>
-                                <a href="index.html#"> <i class="fa fa-user-alt"></i> Author</a>
-                            </li>
-                            <li>
-                                <a href="index.html#"> <i class="fas fa-calendar-week"></i>17 June 2023</a>
-                            </li>
-                        </ul>
-                        <div class="blog-content">
-                            <h3>
-                                <a href="single-blog.html">
-                                    Cybercriminals Go to College with New Phishing Attacks
-                                </a>
-                            </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incididunt</p>
-                            <div class="blog-btn">
-                                <a href="single-blog.html" class="default-btn blog-btn-one">Continue Reading <span></span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End Blog Section -->
 
 <!-- Start Partner Logo Section -->
 <div class="partner-area bg-grey">
@@ -524,87 +434,6 @@
 </div>
 <!-- End Partner Logo Section -->
 
-<!-- Start Footer Section -->
-<section class="footer-area">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-4 col-md-6 footer-box-item">
-                <div class="footer-about footer-list">
-                    <a class="footer-logo" href="index.html#">
-                        <img src="assets/img/logo.png" class="white-logo" alt="logo">
-                    </a>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua</p>
-                    <ul class="footer-social-icon">
-                        <li><a href="index.html#"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="index.html#"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="index.html#"><i class="fab fa-linkedin"></i></a></li>
-                        <li><a href="index.html#"><i class="fab fa-youtube"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 footer-box-item">
-                <div class="footer-list">
-                    <h5 class="title">Contact Info</h5>
-                    <div class="footer-contact-info">
-                        <ul class="footer-contact-list">
-                            <li><i class="fa fa-location-dot"></i> 770 East Linden Street New York</li>
-                            <li><i class="fa fa-mobile-screen-button"></i> <a href="tel:101202303">+707 355-633-755</a></li>
-                            <li><i class="fa fa-envelope"></i> <a href="mailto:random@example.com">contact-info@example.com</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-2 col-md-6 footer-box-item">
-                <div class="footer-list">
-                    <h5 class="title">Our Services</h5>
-                    <ul class="footer-nav-links">
-                        <li><a href="index.html#">Managed Firewall</a></li>
-                        <li><a href="index.html#">Virtual CISO</a></li>
-                        <li><a href="index.html#">Penetration Testing</a></li>
-                        <li><a href="index.html#">Networking Security</a></li>
-                        <li><a href="index.html#">Cloud Security</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 footer-box-item">
-                <div class="footer-list">
-                    <h5 class="title">Subscribe Newsletter</h5>
-                    <div class="footer-info-newsletter">
-                        <form class="newsletter-form">
-                            <input type="email" class="input-newsletter" placeholder="Enter your email" name="EMAIL" required="" autocomplete="off">
-                            <button class="default-btn" type="submit">Subscribe Now <span></span></button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End Footer Section -->
 
-<!-- Start Footer Copyright Section -->
-<div class="copyright-area">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-6 col-md-6">
-                <p>© 2023 - All Rights Reserved - Designed by <span class="author-name">Barakah Themes</span></p>
-            </div>
-            <div class="col-lg-6 col-md-6">
-                <ul>
-                    <li> <a href="terms-condition.html">Terms & Conditions</a></li>
-                    <li> <a href="privacy-policy.html">Privacy Policy</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Footer Copyright Section -->
-
-<!-- Start Go Top Section -->
-<div class="go-top">
-    <i class="fas fa-chevron-up"></i>
-    <i class="fas fa-chevron-up"></i>
-</div>
-<!-- End Go Top Section -->
 
 @endsection

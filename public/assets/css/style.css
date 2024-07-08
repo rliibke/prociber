@@ -164,7 +164,7 @@ a:hover {
 }
 
 p {
-	font-size: 15px;
+	font-size: 16px;
 	line-height: 1.8;
 	color: #5f5f5f;
 	margin-bottom: 15px;
@@ -4265,7 +4265,7 @@ blockquote::after, .blockquote::after {
 .page-title-area {
 	position: relative;
 	z-index: 1;
-	background-image: url(../img/banner-bg.jpg);
+	background-image: url(../img/banner-bg-01.jpg);
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -4474,6 +4474,7 @@ blockquote::after, .blockquote::after {
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
+        opacity: 0.5;
 }
 
 .coming-soon-area::before {
