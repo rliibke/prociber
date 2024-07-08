@@ -20,7 +20,7 @@
     <div class="cybercafe-nav">
         <div class="container">
             <nav class="navbar navbar-expand-md navbar-light">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="/">
                     <img src="assets/img/logo.png" class="white-logo" alt="logo">
                     <img src="assets/img/logo-black.png" class="black-logo" alt="logo">
                 </a>

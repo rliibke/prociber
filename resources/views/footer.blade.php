@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col-lg-3 col-md-6 footer-box-item">
                 <div class="footer-about footer-list">
-                    <a class="footer-logo" href="index.html#">
+                    <a class="footer-logo" href="/">
                         <img src="assets/img/logo.png" class="white-logo" alt="logo">
                     </a>
                     <p>"A necessidade é a mãe da invenção." – Platão</p>

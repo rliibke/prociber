@@ -10,7 +10,7 @@
                 <div class="page-title-content">
                     <h2>Contato</h2>
                     <ul>
-                        <li><a href="index.html">Home</a>
+                        <li><a href="/">Home</a>
                         </li>
                         <li>Contact</li>
                     </ul>
