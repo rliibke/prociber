@@ -15,7 +15,7 @@
                             <h1>Sua Fortaleza Digital</h1>
                             <p>A Prociber é a guardiã da sua tranquilidade digital. Somos especialistas em oferecer soluções inovadoras que protegem sua empresa com a mais avançada tecnologia.</p>
                             <div class="banner-btn">
-                                <a href="index.html#0" class="default-btn-one">
+                                <a href="/backup" class="default-btn-one">
                                    Saiba mais<span></span>
                                 </a>
                                 <a href="/contato" class="default-btn">
