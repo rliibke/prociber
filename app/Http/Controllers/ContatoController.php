@@ -23,12 +23,12 @@ class ContatoController extends Controller
 
                 $mailer = new \Swift_Mailer($transport);
                 
-                $vsBody = "Nome: " . $request->name. "<br>";
+                $vsBody = "<html><body>Nome: " . $request->name. "<br>";
                 $vsBody .= "Telefone: " . $request->telefone. "<br>";
                 $vsBody .= "Email: " . $request->email. "<br>";
                 $vsBody .= "Assunto: " . $request->assunto. "<br>";
                 $vsBody .= "Mensagem: " . $request->mensagem. "<br>";
-                
+                $vsBody .= "</body></html>";
 
                 // message
                 $message = (new \Swift_Message($request->assunto))
