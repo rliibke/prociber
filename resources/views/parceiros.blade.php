@@ -7,7 +7,7 @@
 			<div class="d-table-cell">
 				<div class="container">
 					<div class="page-title-content">
-						<h2>Próciber, Segurança Digital</h2>
+						<h2>Programa de Parceria</h2>
 						
 					</div>
 				</div>
@@ -22,16 +22,16 @@
 			<div class="row d-flex align-items-center">
 				<div class="col-lg-6 col-md-12 col-sm-12">
 					<div class="about-image">
-						<img src="assets/img/about.jpg" alt="image">
+						<img src="assets/img/money.jpg" alt="image">
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-12 col-sm-12">
 					<div class="about-content">
-						<h6 class="sub-title">Seja bem-vindo!</h6>
-						<h2>Sua segurança acima de tudo</h2>
-						<p align="justify">Aqui na Próciber, somos os guardiões do seu futuro digital.
+						<h6 class="sub-title">Obrigado pelo interesse!</h6>
+						<h2>Nosso programa de parceria</h2>
+						<p align="justify">Junte-se ao nosso Programa de Parceria e comece a ganhar comissões de forma simples e eficaz! 
                                                 </p>    
-                                                <p align="justify"> Nossa missão é proteger o que é mais valioso para você, utilizando tecnologia de ponta e uma abordagem personalizada. Seja na proteção contra ameaças cibernéticas ou na segurança de seus ativos físicos, estamos sempre um passo à frente, garantindo que você possa focar no que realmente importa: o crescimento do seu negócio. Confiabilidade, expertise e compromisso definem quem somos. Na Próciber, sua segurança é a nossa prioridade.</p>
+                                                <p align="justify">Ao indicar novos clientes para nossos serviços, você receberá uma comissão mensal sobre a mensalidade de cada cliente indicado. É uma maneira fácil de aumentar sua renda e fortalecer nosso crescimento juntos. Participe e aproveite os benefícios de ser um parceiro de sucesso!.</p>
                                         </div>
 				</div>
 			</div>
@@ -45,115 +45,64 @@
 			<div class="row d-flex align-items-center">
 				<div class="col-lg-6 col-md-12 col-sm-12">
 					<div class="about-content about-content-2">
-						<h6 class="sub-title">Nossa experiência</h6>
-						<h2>Mais de 10 Anos no mercado</h2>
-						<p align="justify">Com anos de experiência no mercado de segurança, a Próciber se destaca pela excelência e inovação contínua. 
-                                                    Nossa trajetória é marcada por uma série de sucessos em projetos complexos e desafiadores, atendendo a uma ampla gama de clientes, desde pequenas empresas até grandes corporações.</p>
-                                                <p align="justify">Solicite hoje mesmo uma apresentação de nossas soluções através de nossos consultores.</p>
+						<h6 class="sub-title">Benefícios</h6>
+						<h2>Programa de Indicação</h2>
+						<p align="justify">Ganhar comissão sobre cobrança recorrente é uma garantia de uma renda extra todo mês.</p>
+                                                <p align="justify">Nossa comissão é bem atrativa, converse com nossa equipe comercial e entenda como funciona o processo de cadastro.</p>
+                                                  <p align="justify">Além de oferecer uma ferramenta de segurança muito importante para seus parceiros, você irá lucrar com a gente.</p>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-12 col-sm-12">
 					<div class="about-image about-image-2">
-						<img src="assets/img/about-2.jpg" alt="image">
-						<div class="waves-box">
-							<a href="https://www.youtube.com/watch?v=l73dA-A0Si4" class="iq-video popup-video mfp-iframe"> <i class="fa fa-play"></i></a>
-							<div class="iq-waves">
-								<div class="waves wave-1"></div>
-								<div class="waves wave-2"></div>
-								<div class="waves wave-3"></div>
-							</div>
-						</div>
+						<img src="assets/img/parceria.jpg" alt="image">
+						
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 	<!-- End About Section -->
-	
-
-
-	<!-- Start Counter Section -->
-	<section class="counter-area section-padding">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-3 col-md-6 counter-item">
-					<div class="single-counter">
-						<div class="counter-contents">
-							<h2>
-								<span class="counter-number">10</span>
-								<span>+</span>
-							</h2>
-							<h3 class="counter-heading">Anos de experiência</h3>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 counter-item">
-					<div class="single-counter">
-						<div class="counter-contents">
-							<h2>
-								<span class="counter-number">500</span>
-							</h2>
-							<h3 class="counter-heading">Dispositivos protegidos</h3>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 counter-item">
-					<div class="single-counter">
-						<div class="counter-contents">
-							<h2>
-								<span class="counter-number">500</span>
-								<span>+</span>
-							</h2>
-							<h3 class="counter-heading">Clientes Seguros</h3>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 counter-item">
-					<div class="single-counter">
-						<div class="counter-contents">
-							<h2>
-								<span class="counter-number">50</span>
-								<span>+</span>
-							</h2>
-							<h3 class="counter-heading">TB de dados</h3>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- End Counter Section -->
         
-     
-	
-	
-	<!-- Start Partner section -->
-	<section class="partner-section pt-100 pb-70">
+        <section class="about-area pb-100">
 		<div class="container">
-			<div class="section-title">
-				<h2>Nossos parceiros de confiança</h2>
-			</div>
-			<div class="partner-list">
-				<div class="partner-item">
-					<a href="https://www.zabke.com.br">
-						<img src="assets/img/partner-logo/client-1.jpg" alt="image">
-					</a>
-				</div>
-				<div class="partner-item">
-					<a href="https://ecocentauro.com.br">
-						<img src="assets/img/partner-logo/client-2.jpg" alt="image">
-					</a>
-				</div>
-                            <div class="partner-item">
-					<a href="https://amazon.com">
-						<img src="assets/img/partner-logo/client-3.png" alt="image">
-					</a>
-				</div>
-				
-			</div>
-		</div>
-	</section>
-	<!-- End Partner section -->
+                    <div class="row d-flex align-items-center">
+                        <div class="col-lg-6 col-md-12">
+                     <h3>Formulário de interesse:</h3>
+                <div class="contact-form contact-form-1">
+               
+                    <form id="contact-form" class="form" action="/contato" method="POST">
+                        @csrf
+                        <div class="row">
+                            <div class="col-lg-6 col-md-12">
+                                <div class="form-group">
+                                    <input type="text" name="name" id="name" class="form-control" required placeholder="Seu Nome">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12">
+                                <div class="form-group">
+                                    <input type="email" name="email" id="email" class="form-control" required placeholder="Seu e-mail">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12">
+                                <div class="form-group">
+                                    <input type="text" name="phone" id="phone" required class="form-control" placeholder="Seu telefone">
+                                </div>
+                            </div>
+
+               
+                            <div class="col-lg-12 col-md-12">
+                                <button type="submit" class="default-btn">ENVIAR <span></span></button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+                    </div>
+                </div>
+        </section>
+        
+        
+	
 
         
 @endsection
