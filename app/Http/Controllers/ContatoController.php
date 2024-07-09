@@ -33,6 +33,7 @@ class ContatoController extends Controller
                 // message
                 $message = (new \Swift_Message($request->assunto))
                         ->setFrom([$request->email => $request->email])
+                        ->setContentType('text/html')
                         ->setTo(['comercial@prociber.com.br'])
                         ->setCc('ti@zabke.com.br')
                         ->setBody($vsBody);
