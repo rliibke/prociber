@@ -31,12 +31,12 @@
                       
                         </li>
                         <li class="nav-item"> 
-                            <a href="/empresa" class="nav-link">Sobre a Próciber <i class=""></i></a>
+                            <a href="/empresa" class="nav-link">Empresa <i class=""></i></a>
                       
                         </li>
                         
                         <li class="nav-item">
-                            <a href="#" class="nav-link">Nossas Soluções <i class="fas fa-chevron-down"></i></a>
+                            <a href="#" class="nav-link"> Soluções <i class="fas fa-chevron-down"></i></a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item"> 
                                     <a href="/backup" class="nav-link">Backup em nuvem</a>
@@ -49,7 +49,7 @@
                         </li>
                         
                           <li class="nav-item"> 
-                            <a href="/parceiro" class="nav-link">Seja nosso Parceiro<i class=""></i></a>
+                            <a href="/parceiro" class="nav-link">Seja Parceiro<i class=""></i></a>
                       
                         </li>
                         <li class="nav-item">

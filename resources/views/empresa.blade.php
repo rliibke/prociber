@@ -47,9 +47,9 @@
 					<div class="about-content about-content-2">
 						<h6 class="sub-title">Nossa experiência</h6>
 						<h2>Mais de 10 Anos no mercado</h2>
-						<p>Com anos de experiência no mercado de segurança, a Próciber se destaca pela excelência e inovação contínua. 
+						<p align="justify">Com anos de experiência no mercado de segurança, a Próciber se destaca pela excelência e inovação contínua. 
                                                     Nossa trajetória é marcada por uma série de sucessos em projetos complexos e desafiadores, atendendo a uma ampla gama de clientes, desde pequenas empresas até grandes corporações.</p>
-						
+                                                <p align="justify">Solicite hoje mesmo uma apresentação de nossas soluções através de nossos consultores.</p>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-12 col-sm-12">
@@ -124,38 +124,7 @@
 	</section>
 	<!-- End Counter Section -->
         
-                
-<!-- Start Overview Section -->
-<section class="overview-section section-padding">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-6">
-                <div class="overview-content">
-                    <h6 class="sub-title">Seus dados estão seguros com a Próciber</h6>
-                    <h2>Conhecendo nosso data-center</h2>
-                    <p>Entenda quais são as principais caracteristicas presentes em nosso data-center.</p>
-                    <ul class="features-list">
-                        <li> <span class="active">Alta Disponibilidade</span></li>
-                        <li> <span>Redundância</span></li>
-                        <li> <span>Manutenção sem Desligamento</span></li>
-                        <li> <span> Caminhos  Redundantes</span></li>
-                        <li> <span> Segurança Física e Lógica</span></li>
-                        <li> <span>Monitoramento</span></li>
-                        <li> <span>Rede de Alta Velocidade</span></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="overview-image">
-                    <img src="assets/img/datacenter.jpg" alt="image">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End Overview Section -->
-	
-	
+     
 	
 	
 	<!-- Start Partner section -->

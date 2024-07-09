@@ -4271,6 +4271,15 @@ blockquote::after, .blockquote::after {
 	background-repeat: no-repeat;
 	height: 400px;
 }
+.page-title-area-secondary {
+	position: relative;
+	z-index: 1;
+	background-image: url(../img/banner-bg-01.jpg);
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+}
 
 .page-title-area::before {
 	content: "";

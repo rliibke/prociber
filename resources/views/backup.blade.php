@@ -2,7 +2,7 @@
 
 @section('contents')
 <!-- Start Page Title Section -->
-	<div class="page-title-area">
+	<div class="page-title-area-secondary">
 		<div class="d-table">
 			<div class="d-table-cell">
 				<div class="container">
@@ -15,6 +15,145 @@
 		</div>
 	</div>
 	<!-- End Page Title Section -->
+        
+        <section class="services-section bg-grey pt-70 pb-100">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="section-title">
+						<h6>Backup monitorado</h6>
+						<h2>What We Provide</h2>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="single-services-item">
+						<div class="services-icon">
+							<img src="assets/img/icons/services-icon-1.svg" alt="svg icon">
+						</div>
+						<h3>Threat Intelligence</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
+						<div class="services-btn-link">
+							<a href="index.html#0" class="services-link">Read More <i class="fa fa-angle-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="single-services-item">
+						<div class="services-icon">
+							<img src="assets/img/icons/services-icon-2.svg" alt="svg icon">
+						</div>
+						<h3>Training and Awareness</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
+						<div class="services-btn-link">
+							<a href="index.html#0" class="services-link">Read More <i class="fa fa-angle-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="single-services-item">
+						<div class="services-icon">
+							<img src="assets/img/icons/services-icon-3.svg" alt="svg icon">
+						</div>
+						<h3>Penetration Testing</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
+						<div class="services-btn-link">
+							<a href="index.html#0" class="services-link">Read More <i class="fa fa-angle-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="single-services-item">
+						<div class="services-icon">
+							<img src="assets/img/icons/services-icon-4.svg" alt="svg icon">
+						</div>
+						<h3>Networking Security</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
+						<div class="services-btn-link">
+							<a href="index.html#0" class="services-link">Read More <i class="fa fa-angle-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="single-services-item">
+						<div class="services-icon">
+							<img src="assets/img/icons/services-icon-5.svg" alt="svg icon">
+						</div>
+						<h3>Security Operations</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
+						<div class="services-btn-link">
+							<a href="index.html#0" class="services-link">Read More <i class="fa fa-angle-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="single-services-item">
+						<div class="services-icon">
+							<img src="assets/img/icons/services-icon-6.svg" alt="svg icon">
+						</div>
+						<h3>Cyber Security Consulting</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
+						<div class="services-btn-link">
+							<a href="index.html#0" class="services-link">Read More <i class="fa fa-angle-right"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+        
+        <section class="project-details-area section-padding">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 col-md-12">
+					<div class="projects-details-desc">
+						<div class="projects-details-image">
+							<img src="assets/img/project/projects-details-1.jpg" alt="image">
+						</div>
+						<h2>Proteja seu negócio com nossa solução de Backup em Nuvem</h2>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.</p>
+						
+						<div class="features-text">
+							<h4>We Solve Business Problems With Technology</h4>
+							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+						</div>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						<div class="project-details-info">
+							<div class="single-info-box">
+								<h4>Author</h4>
+								<span>Ervin Simmons</span>
+							</div>
+							<div class="single-info-box">
+								<h4>Category</h4>
+								<span>IT Services, Technologies</span>
+							</div>
+							<div class="single-info-box">
+								<h4>Date</h4>
+								<span>January 25, 2023</span>
+							</div>
+							<div class="single-info-box">
+								<h4>Share</h4>
+								<ul class="social">
+									<li>
+										<a href="single-projects.html#"> <i class="fab fa-facebook-f"></i></a>
+									</li>
+									<li>
+										<a href="single-projects.html#"> <i class="fab fa-twitter"></i></a>
+									</li>
+									<li>
+										<a href="single-projects.html#"> <i class="fab fa-linkedin-in"></i></a>
+									</li>
+								</ul>
+							</div>
+							<div class="single-info-box">
+								<h4>Works Link</h4>
+								<a href="single-projects.html#" class="default-btn">Live Preview <span></span></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
         
         <section class="services-details-area section-padding">
 		<div class="container">
@@ -164,8 +303,8 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="section-title">
-						<h6>Short Questions</h6>
-						<h2>Cyber Security FAQs</h2>
+						<h6>Perguntas rápidas</h6>
+						<h2>FAQ</h2>
 					</div>
                 </div>
 				<div class="col-lg-10 offset-lg-1">
@@ -173,28 +312,33 @@
 						<ul class="accordion">
 							<li class="accordion-item">
 								<a class="accordion-title active" href="javascript:void(0)"> <i class="fa fa-caret-down"></i>
-								1. What is information security?</a>
-								<p class="accordion-content show">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.</p>
+								1. Onde o backup fica armazenado ?</a>
+								<p class="accordion-content show">Possuímos uma estrutura de datacenter, onde seus dados ficam seguros. O data center possui redundancia de vários sistema críticos que garantes o armazenamento seguro dos seus dados.</p>
 							</li>
 							<li class="accordion-item">
 								<a class="accordion-title" href="javascript:void(0)"> <i class="fa fa-caret-down"></i>
-								2. What is an IT device?</a>
-								<p class="accordion-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.</p>
+								2. Como é feita a instalação ?</a>
+								<p class="accordion-content">Durante a etapa de instalação nossos colabodores irão lhe auxiliar na configuração do backup.</p>
 							</li>
 							<li class="accordion-item">
 								<a class="accordion-title" href="javascript:void(0)"> <i class="fa fa-caret-down"></i> 
-								3. How do I secure my computer?</a>
-								<p class="accordion-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.</p>
+								3. Posso cancelar o serviço a qualquer momento ?</a>
+								<p class="accordion-content">Sim é possível cancelar a qualquer momento o serviço de backup.</p>
 							</li>
 							<li class="accordion-item">
 								<a class="accordion-title" href="javascript:void(0)"> <i class="fa fa-caret-down"></i> 
-								4. What is data management?</a>
-								<p class="accordion-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.</p>
+								4. Como é feito o pagamento da mensalidade ?</a>
+								<p class="accordion-content">É gerado um boleto de acordo com seu plano, mensal, trimestral, semestral ou anual .</p>
 							</li>
 							<li class="accordion-item">
 								<a class="accordion-title" href="javascript:void(0)"> <i class="fa fa-caret-down"></i> 
-								5. How do I protect the data I have?</a>
-								<p class="accordion-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.</p>
+								5. Quando custa o serviço de backup ?</a>
+								<p class="accordion-content">O valor do serviço é definido de acordo com a quandidade em GB do seu plano.</p>
+							</li>
+                                                        <li class="accordion-item">
+								<a class="accordion-title" href="javascript:void(0)"> <i class="fa fa-caret-down"></i> 
+								6. Qual o e-mail do setor comercial ?</a>
+								<p class="accordion-content">comercial@prociber.com.br</p>
 							</li>
 						</ul>
 					</div>

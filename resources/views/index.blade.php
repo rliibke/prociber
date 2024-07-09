@@ -13,7 +13,7 @@
                     <div class="col-lg-6 col-md-12">
                         <div class="main-banner-content">
                             <h1>Sua Fortaleza Digital</h1>
-                            <p>Na vanguarda da segurança da informação, a Prociber é a guardiã da sua tranquilidade digital. Somos especialistas em oferecer soluções inovadoras que protegem seus dados com a mais avançada tecnologia.</p>
+                            <p>A Prociber é a guardiã da sua tranquilidade digital. Somos especialistas em oferecer soluções inovadoras que protegem sua empresa com a mais avançada tecnologia.</p>
                             <div class="banner-btn">
                                 <a href="index.html#0" class="default-btn-one">
                                    Saiba mais<span></span>
@@ -126,8 +126,8 @@
                             </div>
                         </div>
                         <div class="col-lg-5">
-                            <div class="tab-image">
-                                <img src="assets/img/judge.jpg" alt="image">
+                            <div class="">
+                                <img src="assets/img/industry/tab-solution-1.jpg" alt="image">
                             </div>
                         </div>
                     </div>
