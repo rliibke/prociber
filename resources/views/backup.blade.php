@@ -16,259 +16,7 @@
 	</div>
 	<!-- End Page Title Section -->
         
-        <section class="services-section bg-grey pt-70 pb-100">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="section-title">
-						<h6>Backup monitorado</h6>
-						<h2>What We Provide</h2>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="single-services-item">
-						<div class="services-icon">
-							<img src="assets/img/icons/services-icon-1.svg" alt="svg icon">
-						</div>
-						<h3>Threat Intelligence</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
-						<div class="services-btn-link">
-							<a href="index.html#0" class="services-link">Read More <i class="fa fa-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="single-services-item">
-						<div class="services-icon">
-							<img src="assets/img/icons/services-icon-2.svg" alt="svg icon">
-						</div>
-						<h3>Training and Awareness</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
-						<div class="services-btn-link">
-							<a href="index.html#0" class="services-link">Read More <i class="fa fa-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="single-services-item">
-						<div class="services-icon">
-							<img src="assets/img/icons/services-icon-3.svg" alt="svg icon">
-						</div>
-						<h3>Penetration Testing</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
-						<div class="services-btn-link">
-							<a href="index.html#0" class="services-link">Read More <i class="fa fa-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="single-services-item">
-						<div class="services-icon">
-							<img src="assets/img/icons/services-icon-4.svg" alt="svg icon">
-						</div>
-						<h3>Networking Security</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
-						<div class="services-btn-link">
-							<a href="index.html#0" class="services-link">Read More <i class="fa fa-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="single-services-item">
-						<div class="services-icon">
-							<img src="assets/img/icons/services-icon-5.svg" alt="svg icon">
-						</div>
-						<h3>Security Operations</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
-						<div class="services-btn-link">
-							<a href="index.html#0" class="services-link">Read More <i class="fa fa-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="single-services-item">
-						<div class="services-icon">
-							<img src="assets/img/icons/services-icon-6.svg" alt="svg icon">
-						</div>
-						<h3>Cyber Security Consulting</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
-						<div class="services-btn-link">
-							<a href="index.html#0" class="services-link">Read More <i class="fa fa-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-        
-        <section class="project-details-area section-padding">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-12 col-md-12">
-					<div class="projects-details-desc">
-						<div class="projects-details-image">
-							<img src="assets/img/project/projects-details-1.jpg" alt="image">
-						</div>
-						<h2>Proteja seu negócio com nossa solução de Backup em Nuvem</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur.</p>
-						
-						<div class="features-text">
-							<h4>We Solve Business Problems With Technology</h4>
-							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-						</div>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						<div class="project-details-info">
-							<div class="single-info-box">
-								<h4>Author</h4>
-								<span>Ervin Simmons</span>
-							</div>
-							<div class="single-info-box">
-								<h4>Category</h4>
-								<span>IT Services, Technologies</span>
-							</div>
-							<div class="single-info-box">
-								<h4>Date</h4>
-								<span>January 25, 2023</span>
-							</div>
-							<div class="single-info-box">
-								<h4>Share</h4>
-								<ul class="social">
-									<li>
-										<a href="single-projects.html#"> <i class="fab fa-facebook-f"></i></a>
-									</li>
-									<li>
-										<a href="single-projects.html#"> <i class="fab fa-twitter"></i></a>
-									</li>
-									<li>
-										<a href="single-projects.html#"> <i class="fab fa-linkedin-in"></i></a>
-									</li>
-								</ul>
-							</div>
-							<div class="single-info-box">
-								<h4>Works Link</h4>
-								<a href="single-projects.html#" class="default-btn">Live Preview <span></span></a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-        
-        <section class="services-details-area section-padding">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-8 col-md-12">
-					<div class="services-details-content">
-						<div class="services-details-image">
-							<img src="assets/img/services-details/services-details-1.jpg" alt="image">
-						</div>
-						
-						<h3>Secure your data and assets as rapidly as possible</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa officia deserunt laborum</p>
-						
-						<div class="features-text">
-							<h4>Security Services</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. minim veniam, quis nostrud exercitation ullamco laboris nisi commodo consequat.</p>
-							<ul class="service-features-list">
-								<li><i class="fa fa-check"></i>Detects threats in milliseconds</li>
-								<li><i class="fa fa-check"></i>Identify any unknown vulnerabilities</li>
-								<li><i class="fa fa-check"></i>Recommend corrective actions</li>
-								<li><i class="fa fa-check"></i>Prepare your organization for the future</li>
-								<li><i class="fa fa-check"></i>Assess your company’s current security posture</li>
-							</ul>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa officia deserunt laborum</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-12">
-					<aside class="services-widget">
-						<section class="widget widget_categories">
-							<h3 class="widget-title">Our Services</h3>
-							<ul>
-								<li> <a href="single-services.html#">Security Services</a></li>
-								<li> <a href="single-services.html#">Threat Intelligence</a></li>
-								<li> <a href="single-services.html#">Penetration Testing</a></li>
-								<li> <a href="single-services.html#">Networking Security</a></li>
-								<li> <a href="single-services.html#">Security Consulting</a></li>
-							</ul>
-						</section>
-						<section class="widget widget_download_btn">
-							<h3 class="widget-title">Company Profile</h3>
-							<div class="section-bottom">
-								<a href="single-services.html#" class="default-btn">Download PDF <span></span></a>
-								<a href="single-services.html#" class="default-btn">Download Word File <span></span></a>
-							</div>
-						</section>
-					</aside>
-				</div>
-			</div>
-		</div>
-	</section>
-        
-        <section class="features-section pt-70 pb-50">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-4 col-md-6">
-					<a href="index-3.html#0" class="single-features-item">
-						<div class="features-icon">
-							<i class="flaticon-medal"></i>
-						</div>
-						<h3>Industry Certified</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
-					</a>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<a href="index-3.html#0" class="single-features-item">
-						<div class="features-icon">
-							<i class="flaticon-cloud"></i>
-						</div>
-						<h3>Data Privacy</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
-					</a>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<a href="index-3.html#0" class="single-features-item">
-						<div class="features-icon">
-							<i class="flaticon-protection"></i>
-						</div>
-						<h3>Security Services</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt dolore magna aliqua</p>
-					</a>
-				</div>
-			</div>
-		</div>
-	</section>
-        
-                
-<!-- Start Overview Section -->
-<section class="overview-section section-padding">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-12">
-                <div class="overview-content">
-                    <h6 class="sub-title">Seus dados estão seguros com a Próciber</h6>
-                    <h2>Conheça as principais características:</h2>
-                    <p>Entenda quais são as principais caracteristicas presentes em nossa solução.</p>
-                    <ul class="features-list">
-                        <li> <span>Backup criptografado</span></li>
-                        <li> <span>Dashboard para acompanhamento</span></li>
-                        <li> <span >Equipe de suporte proativa</span></li>
-                        <li> <span> DataCenter Confiável</span></li>
-                        <li> <span> Segurança Física e Lógica</span></li>
-                        <li> <span >Monitoramento</span></li>
-                        <li> <span>Rede de Alta Velocidade</span></li>
-                    </ul>
-                </div>
-            </div>
-        
-        </div>
-    </div>
-</section>
-
-
-	
-	<!-- Start About Section -->
+        <!-- Start About Section -->
 	<section class="about-area section-padding">
 		<div class="container">
 			<div class="row d-flex align-items-center">
@@ -292,9 +40,81 @@
 			</div>
 		</div>
 	</section>
-	<!-- End About Section -->
-	
-	
+
+        
+        <section class="services-section bg-grey pt-70 pb-100">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="section-title">
+						<h6>Backup monitorado</h6>
+						<h2>O que oferecemos</h2>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="single-services-item">
+						<div class="services-icon">
+							<img src="assets/img/icons/services-icon-1.svg" alt="svg icon">
+						</div>
+						<h3>Dashboard</h3>
+						<p>Dashboard em tempo real para sua empresa acompanhar seus backups.</p>
+						
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="single-services-item">
+						<div class="services-icon">
+							<img src="assets/img/icons/services-icon-2.svg" alt="svg icon">
+						</div>
+						<h3>Backup criptografado</h3>
+						<p>Os dados em repouso ficam cripgrafados evitando export informações</p>
+						
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="single-services-item">
+						<div class="services-icon">
+							<img src="assets/img/icons/services-icon-3.svg" alt="svg icon">
+						</div>
+						<h3>Controle de Acesso</h3>
+						<p>Configure os usuários e grupos que terão acesso aos backups</p>
+						
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="single-services-item">
+						<div class="services-icon">
+							<img src="assets/img/icons/services-icon-4.svg" alt="svg icon">
+						</div>
+						<h3>Segurança</h3>
+						<p>Nosso infraestrutura de datacenter possui os requisitos para atender sua empresa</p>
+						
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="single-services-item">
+						<div class="services-icon">
+							<img src="assets/img/icons/services-icon-5.svg" alt="svg icon">
+						</div>
+						<h3>Backup de Banco de Dados</h3>
+						<p>Conecte nossa ferramenta diretamente no seu servidor</p>
+						
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="single-services-item">
+						<div class="services-icon">
+							<img src="assets/img/icons/services-icon-6.svg" alt="svg icon">
+						</div>
+						<h3>Atendimento personalizado</h3>
+						<p>Nossa equipe irá acompanhar o processo para garantir que seu backup está em dia</p>
+					
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+        
 
 <!-- End Overview Section -->
 	

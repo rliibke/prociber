@@ -144,6 +144,11 @@
 						<img src="assets/img/partner-logo/client-2.jpg" alt="image">
 					</a>
 				</div>
+                            <div class="partner-item">
+					<a href="https://amazon.com">
+						<img src="assets/img/partner-logo/client-3.png" alt="image">
+					</a>
+				</div>
 				
 			</div>
 		</div>

@@ -41,15 +41,15 @@
                                 <li class="nav-item"> 
                                     <a href="/backup" class="nav-link">Backup em nuvem</a>
                                 </li>
-                                <li class="nav-item"> 
+                               <!-- <li class="nav-item"> 
                                     <a href="/seguranca" class="nav-link">Segurança Digital</a>
-                                </li>
+                                </li>-->
                               
                             </ul>
                         </li>
                         
                           <li class="nav-item"> 
-                            <a href="/parceiro" class="nav-link">Seja Parceiro<i class=""></i></a>
+                            <a href="/parceiros" class="nav-link">Seja Parceiro<i class=""></i></a>
                       
                         </li>
                         <li class="nav-item">

@@ -369,10 +369,10 @@
         <div class="row">
             <div class="col-lg-8 offset-lg-2 col-md-12">
                 <div class="hire-content">
-                    <h2>Hire Cyber Security Experts</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud consectetur</p>
+                    <h2>Próciber Segurança</h2>
+                    <p>A defesa que você precisa, a segurança que você merece</p>
                     <div class="hire-btn">
-                        <a class="default-btn-one" href="contact.html">Contact Us <span></span></a>
+                        <a class="default-btn-one" href="https://wa.me/554531120017">Fale com um consultor<span></span></a>
                     </div>
                 </div>
             </div>
@@ -386,7 +386,7 @@
 <div class="partner-area bg-grey">
     <div class="container">
         <div class="section-title">
-            <h2>Trusted Partners</h2>
+            <h2>Nossos parceiros</h2>
         </div>
         <div id="partner-carousel" class="partner-carousel owl-carousel owl-theme owl-loaded">
             <div class="partner-slide-item">
@@ -401,7 +401,7 @@
             </div>
             <div class="partner-slide-item">
                 <a href="index.html#0">
-                    <img src="assets/img/partner-logo/client-3.jpg" alt="partner-image">
+                    <img src="assets/img/partner-logo/client-3.png" alt="partner-image">
                 </a>
             </div>
             <div class="partner-slide-item">
