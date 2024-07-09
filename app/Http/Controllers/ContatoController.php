@@ -22,6 +22,7 @@ class ContatoController extends Controller
               
         $contato = Contato::create([
                  'name'        => $request->name,
+                'telefone'     => $request->telefone,
                  'assunto'     => $request->assunto,
                  'email'        => $request->email,
                  'mensagem'     => ($request->mensagem==null) ? '' : $request->mensagem 

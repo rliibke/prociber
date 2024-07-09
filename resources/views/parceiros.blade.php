@@ -83,10 +83,10 @@
                                     <input type="email" name="email" id="email" class="form-control" required placeholder="Seu e-mail">
                                 </div>
                             </div>
-                            <input type="hidden" name="message" id="message" value="Contato Site, Interesse de parceria">
+                            <input type="hidden" name="assunto" id="assunto" value="Contato Site, Interesse de parceria">
                             <div class="col-lg-6 col-md-12">
                                 <div class="form-group">
-                                    <input type="text" name="phone" id="phone" required class="form-control" placeholder="Seu telefone">
+                                    <input type="text" name="telefone" id="telefone" required class="form-control" placeholder="Seu telefone">
                                 </div>
                             </div>
 

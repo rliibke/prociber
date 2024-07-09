@@ -54,15 +54,8 @@
 				</div>
 				<div class="col-lg-6 col-md-12 col-sm-12">
 					<div class="about-image about-image-2">
-						<img src="assets/img/about-2.jpg" alt="image">
-						<div class="waves-box">
-							<a href="https://www.youtube.com/watch?v=l73dA-A0Si4" class="iq-video popup-video mfp-iframe"> <i class="fa fa-play"></i></a>
-							<div class="iq-waves">
-								<div class="waves wave-1"></div>
-								<div class="waves wave-2"></div>
-								<div class="waves wave-3"></div>
-							</div>
-						</div>
+						<img src="assets/img/virus.jpg" alt="image">
+						
 					</div>
 				</div>
 			</div>
