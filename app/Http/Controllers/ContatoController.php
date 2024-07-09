@@ -12,7 +12,7 @@ use App\Models\Contato;
 class ContatoController extends Controller
 {
     public function store(Request $request) {
-
+  
          //tenta enviar email, mas se falhar quarda no banco de dados
          try {
 
@@ -22,19 +22,26 @@ class ContatoController extends Controller
                         ->setPassword('naoresponda123');
 
                 $mailer = new \Swift_Mailer($transport);
+                
+                $vsBody = "Nome: " . $request->name. "<br>";
+                $vsBody .= "Telefone: " . $request->telefone. "<br>";
+                $vsBody .= "Email: " . $request->email. "<br>";
+                $vsBody .= "Assunto: " . $request->assunto. "<br>";
+                $vsBody .= "Mensagem: " . $request->mensagem. "<br>";
+                
 
                 // message
                 $message = (new \Swift_Message($request->assunto))
-                        ->setFrom([$request->email => $empresa->email])
+                        ->setFrom([$request->email => $request->email])
                         ->setTo(['comercial@prociber.com.br'])
                         ->setCc('ti@zabke.com.br')
-                        ->setBody($request->assunto);
+                        ->setBody($vsBody);
 
                 // Send the message
                 $result = $mailer->send($message);
 
                 //return response()->json($result);
-                
+            
             } catch (\Exception $ex) {
                 
                 $contato = Contato::create([
