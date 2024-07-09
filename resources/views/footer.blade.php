@@ -46,8 +46,12 @@
                 <div class="footer-list">
                     <h5 class="title">Seja nosso parceiro</h5>
                     <div class="footer-info-newsletter">
-                        <form class="newsletter-form">
-                            <input type="email" class="input-newsletter" placeholder="Informe seu e-mail" name="EMAIL" required="" autocomplete="off">
+                        <form class="newsletter-form" action="/contato" method="POST">
+                             @csrf
+                              <input type="hidden" name="assunto" id="assunto" value="Contato Site, Interesse de parceria">
+                               <input type="hidden" name="name" id="name" value="NAO INFORMADO">
+                              <input type="hidden" name="phone" id="phone" value="">
+                            <input type="email" class="input-newsletter" placeholder="Informe seu e-mail" name="email" id="email" required="" autocomplete="off">
                             <button class="default-btn" type="submit">Inscrever-se <span></span></button>
                         </form>
                     </div>
@@ -75,6 +79,7 @@
     </div>
 </div>
 <!-- End Footer Copyright Section -->
+
 
 <!-- Start Go Top Section -->
 <div class="go-top">

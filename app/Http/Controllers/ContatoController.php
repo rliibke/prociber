@@ -14,11 +14,11 @@ class ContatoController extends Controller
     public function store(Request $request) {
         
       
-        $request->validate([
+       /* $request->validate([
            'name' => 'required',
            'assunto' => 'required',
            'email' => 'required'
-       ]);
+       ]);*/
               
         $contato = Contato::create([
                  'name'        => $request->name,
@@ -28,7 +28,7 @@ class ContatoController extends Controller
                  'mensagem'     => ($request->mensagem==null) ? '' : $request->mensagem 
           ]);
         
-          return view('index')->with('msg','Iremos lhe retornar em breve.');
+          return view('contato')->with('msg','Agracemos seu contato! Iremos lhe retornar em breve.');
         
          //dd($contato);
     }

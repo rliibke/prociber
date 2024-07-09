@@ -10,33 +10,33 @@ Route::middleware('visitor')->get('/', function () {
 });
 
 Route::middleware('visitor')->get('/contato', function () {
-    return view('contato');
+    return view('contato',array('msg' => ''));
 });
 
 Route::middleware('visitor')->get('/politica', function () {
-    return view('politica');
+    return view('politica',array('msg' => ''));
 });
 
 Route::middleware('visitor')->get('/empresa', function () {
-    return view('empresa');
+    return view('empresa',array('msg' => ''));
 });
 
 Route::middleware('visitor')->get('/backup', function () {
-    return view('backup');
+    return view('backup',array('msg' => ''));
 });
 
 
 Route::middleware('visitor')->get('/seguranca', function () {
-    return view('seguranca');
+    return view('seguranca',array('msg' => ''));
 });
 
 
 Route::middleware('visitor')->get('/clientes', function () {
-    return view('clientes');
+    return view('clientes',array('msg' => ''));
 });
 
 Route::middleware('visitor')->get('/parceiros', function () {
-    return view('parceiros');
+    return view('parceiros',array('msg' => ''));
 });
 
 

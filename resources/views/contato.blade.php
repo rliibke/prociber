@@ -21,6 +21,14 @@
 </div>
 <!-- End Page Title Section -->
 
+@if($msg!=='')
+
+<br><br>
+<center>
+<h3>{{ $msg }}</h3>
+</center>
+@endif
+
 <!-- Start Contact Section -->
 <div class="contact-section contact-page-form section-padding">
     <div class="container">
@@ -84,6 +92,7 @@
                             </div>
                             <div class="col-lg-6 col-md-12">
                                 <div class="form-group">
+                                    <input type="hidden" name="assunto" id="assunto" value="Contato do Site">
                                     <input type="text" name="phone" id="phone" required class="form-control" placeholder="Seu telefone">
                                 </div>
                             </div>
