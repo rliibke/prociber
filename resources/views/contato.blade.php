@@ -9,11 +9,7 @@
             <div class="container">
                 <div class="page-title-content">
                     <h2>Contato</h2>
-                    <ul>
-                        <li><a href="/">Home</a>
-                        </li>
-                        <li>Contact</li>
-                    </ul>
+                  
                 </div>
             </div>
         </div>
@@ -77,7 +73,7 @@
                      <h3>Formulário de contato:</h3>
                 <div class="contact-form contact-form-1">
                
-                    <form id="contact-form" class="form" action="/contato" method="POST">
+                    <form id="contact-form" class="form" action="/contato" method="POST" onsubmit="documento.getElementById('btn_salvar_contato').disabled=true">
                         @csrf
                         <div class="row">
                             <div class="col-lg-6 col-md-12">
@@ -103,7 +99,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-12 col-md-12">
-                                <button type="submit" class="default-btn">ENVIAR <span></span></button>
+                                <button type="submit" class="default-btn" id="btn_salvar_contato" name="btn_salvar_contato" >ENVIAR <span></span></button>
                             </div>
                         </div>
                     </form>
