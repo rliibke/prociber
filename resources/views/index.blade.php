@@ -294,31 +294,8 @@
                     <img src="assets/img/partner-logo/client-3.png" alt="partner-image">
                 </a>
             </div>
-            <div class="partner-slide-item">
-                <a href="index.html#0">
-                    <img src="assets/img/partner-logo/client-4.jpg" alt="partner-image">
-                </a>
-            </div>
-            <div class="partner-slide-item">
-                <a href="index.html#0">
-                    <img src="assets/img/partner-logo/client-5.jpg" alt="partner-image">
-                </a>
-            </div>
-            <div class="partner-slide-item">
-                <a href="index.html#0">
-                    <img src="assets/img/partner-logo/client-6.jpg" alt="partner-image">
-                </a>
-            </div>
-            <div class="partner-slide-item">
-                <a href="index.html#0">
-                    <img src="assets/img/partner-logo/client-7.jpg" alt="partner-image">
-                </a>
-            </div>
-            <div class="partner-slide-item">
-                <a href="index.html#0">
-                    <img src="assets/img/partner-logo/client-8.jpg" alt="partner-image">
-                </a>
-            </div>
+
+        
         </div>
     </div>
 </div>

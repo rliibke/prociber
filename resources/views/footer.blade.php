@@ -37,7 +37,7 @@
                     <h5 class="title">Nossos Serviços</h5>
                     <ul class="footer-nav-links">
                         <li><a href="/backup">Backup em Nuvem</a></li>
-                        <li><a href="/seguranca">Segurança Digital</a></li>
+                        <!--<li><a href="/seguranca">Segurança Digital</a></li>-->
                 
                     </ul>
                 </div>
@@ -67,11 +67,11 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-6">
-                <p>© 2024 - Todos Direitos Reservados - Desenvolvido por <span class="author-name"><a href='https://www.zabke.com.br' target='_blank'>Zabke</a></span></p>
+                <p>© 2024 - Todos Direitos Reservados - Desenvolvido por <span class="author-name"><a href='https://www.zabke.com.br' target='_blank' style='color:white;'>Zabke</a></span></p>
             </div>
             <div class="col-lg-6 col-md-6">
                 <ul>
-                    <li> <a href="terms-condition.html">Termos e Condições</a></li>
+                    <!--<li> <a href="terms-condition.html">Termos e Condições</a></li>-->
                     <li> <a href="/politica">Política de Privacidade</a></li>
                 </ul>
             </div>
