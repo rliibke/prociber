@@ -280,17 +280,17 @@
         </div>
         <div id="partner-carousel" class="partner-carousel owl-carousel owl-theme owl-loaded">
             <div class="partner-slide-item">
-                <a href="index.html#0">
+                <a href="https://zabke.com.br">
                     <img src="assets/img/partner-logo/client-1.jpg" alt="partner-image">
                 </a>
             </div>
             <div class="partner-slide-item">
-                <a href="index.html#0">
+                <a href="https://ecocentauro.com.br">
                     <img src="assets/img/partner-logo/client-2.jpg" alt="partner-image">
                 </a>
             </div>
             <div class="partner-slide-item">
-                <a href="index.html#0">
+                <a href="https://amazon.com">
                     <img src="assets/img/partner-logo/client-3.png" alt="partner-image">
                 </a>
             </div>
