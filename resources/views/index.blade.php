@@ -280,7 +280,7 @@
         </div>
         <div id="partner-carousel" class="partner-carousel owl-carousel owl-theme owl-loaded">
             <div class="partner-slide-item">
-                <a href="https://zabke.com.br">
+                <a href="https://www.zabke.com.br">
                     <img src="assets/img/partner-logo/client-1.jpg" alt="partner-image">
                 </a>
             </div>
