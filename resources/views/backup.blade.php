@@ -34,7 +34,7 @@
                                                     
                                                 </p> 
                                                 <p align="justify">Discos rígidos podem falhar devido a problemas mecânicos ou eletrônicos. Sem um backup, todos os dados armazenados podem ser permanentemente perdidos.</p>
-                                                <p align="justify">Com nossa solução iremos monitorar se seus backups estão sendo realizados. Além disso seu backup é criptogragado, uma importante política de segurança pra te prteger ainda mais.</p>
+                                                <p align="justify">Com nossa solução iremos monitorar se seus backups estão sendo realizados. Além disso seu backup é criptografados, uma importante política de segurança pra te proteger ainda mais.</p>
                                         </div>
 				</div>
 			</div>
