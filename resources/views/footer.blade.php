@@ -28,6 +28,8 @@
                                <li><i class="fa fa-location-dot"></i> Cascavel - PR</li>
                             <li><i class="fa fa-mobile-screen-button"></i> <a href="tel:554531972328">45 3197 2328</a></li>
                             <li><i class="fa fa-envelope"></i> <a href="mailto:comercial@prociber.com.br">comercial@prociber.com.br</a></li>
+                            <li><i class=""></i> PRO CIBER SEGURANCA DIGITAL</li>
+                            <li><i class=""></i> CNPJ 45.656.922/0001-90</li>
                         </ul>
                     </div>
                 </div>
